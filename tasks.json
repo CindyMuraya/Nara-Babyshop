@@ -1,0 +1,16 @@
+{
+    "tasks": [
+      {
+        "type": "npm",
+        "script": "install",
+        "label": "npm: install-backend-deps",
+        "path": "backend"
+      },
+      {
+        "type": "npm",
+        "script": "install",
+        "label": "npm: install-frontend-deps",
+        "path": "frontend"
+      }
+    ]
+  }
