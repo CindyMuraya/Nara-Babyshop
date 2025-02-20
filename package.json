@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CindyMuraya/Nara-Babyshop/issues"
   },
-  "homepage": "https://github.com/CindyMuraya/Nara-Babyshop#readme"
+  "homepage": "https://github.com/CindyMuraya/Nara-Babyshop#readme",
+  "dependencies": {
+    "firebase": "^11.3.1"
+  }
 }
